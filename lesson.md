@@ -1,0 +1,3 @@
+1. tailwind bydefault set the css according to the mobile screens !
+ it is like :  mobile -> tablet or laptop or desktop -> ......
+ if u dont mention how this div or h1 or img will look like in desktop  then it will auto set to mobile and for all the screens. 
